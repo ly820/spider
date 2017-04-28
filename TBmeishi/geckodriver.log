@@ -1,0 +1,413 @@
+1492431388264	geckodriver	INFO	Listening on 127.0.0.1:47393
+1492431389306	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kpKR60AsfJ9G
+1492431389306	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492431389320	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39075
+1492431394379	Marionette	INFO	Listening on port 39075
+1492431396716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 75: TypeError: this._recipeManager is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492431950754	geckodriver	INFO	Listening on 127.0.0.1:42671
+1492431951818	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PR5b4eJL2V2g
+1492431951819	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492431951820	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42633
+1492431956752	Marionette	INFO	Listening on port 42633
+1492431958064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492432058367	geckodriver	INFO	Listening on 127.0.0.1:38337
+1492432059423	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lYMpMvrWU8sZ
+1492432059424	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492432059427	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38029
+1492432060598	Marionette	INFO	Listening on port 38029
+1492432061815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492432145563	geckodriver	INFO	Listening on 127.0.0.1:34449
+1492432146618	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tGaMW5QjCX6k
+1492432146618	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492432146622	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39325
+1492432147708	Marionette	INFO	Listening on port 39325
+1492432148892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492432197779	geckodriver	INFO	Listening on 127.0.0.1:55581
+1492432198833	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.3muI8bg3Dwjv
+1492432198834	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492432198837	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34235
+1492432199943	Marionette	INFO	Listening on port 34235
+1492432201067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492432290238	geckodriver	INFO	Listening on 127.0.0.1:60733
+1492432291297	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.KHKLztudSNuJ
+1492432291298	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492432291301	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43215
+1492432292445	Marionette	INFO	Listening on port 43215
+1492432293513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492432566078	geckodriver	INFO	Listening on 127.0.0.1:36875
+1492432567132	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YADZQl3JfTmT
+1492432567133	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492432567135	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33661
+1492432569058	Marionette	INFO	Listening on port 33661
+1492432570202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492432614740	geckodriver	INFO	Listening on 127.0.0.1:52539
+1492432615797	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.U5GgM85lF8Cw
+1492432615798	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492432615801	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41967
+1492432617442	Marionette	INFO	Listening on port 41967
+1492432618805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kg/route-map-http/0.0.2/index.js,kg/tbhome/1.3.1/index.js,kg/tbhome/1.3.1/c/like/index.css.js,kg/pattern/1.2.0/index-min.js,kg/pattern/1.2.0/lib/image-min.js,kg/pattern/1.2.0/lib/io-min.js,kg/reporter/0.0.2/lib/index-min.js,kg/tbhome/1.3.1/c/fixedtool/index.css.js, line 2: TypeError: a.send is not a function
+
+(/usr/lib/firefox/plugin-container:8029): GLib-GObject-WARNING **: invalid unclassed pointer in cast to 'GtkContainer'
+
+(/usr/lib/firefox/plugin-container:8029): Gtk-CRITICAL **: IA__gtk_container_remove: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(/usr/lib/firefox/plugin-container:8029): Gtk-CRITICAL **: IA__gtk_widget_hide: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(/usr/lib/firefox/plugin-container:8029): Gtk-CRITICAL **: IA__gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(/usr/lib/firefox/plugin-container:7697): GLib-GObject-WARNING **: invalid unclassed pointer in cast to 'GtkContainer'
+
+(/usr/lib/firefox/plugin-container:7697): Gtk-CRITICAL **: IA__gtk_container_remove: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(/usr/lib/firefox/plugin-container:7697): Gtk-CRITICAL **: IA__gtk_widget_hide: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(/usr/lib/firefox/plugin-container:7697): Gtk-CRITICAL **: IA__gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(/usr/lib/firefox/plugin-container:7697): GLib-GObject-WARNING **: invalid unclassed pointer in cast to 'GtkContainer'
+
+(/usr/lib/firefox/plugin-container:7697): Gtk-CRITICAL **: IA__gtk_container_remove: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(/usr/lib/firefox/plugin-container:7697): Gtk-CRITICAL **: IA__gtk_widget_hide: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(/usr/lib/firefox/plugin-container:7697): Gtk-CRITICAL **: IA__gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+1492432997065	geckodriver	INFO	Listening on 127.0.0.1:34069
+1492432997204	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.5FnlTecCP9a3
+1492432997205	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492432997208	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39399
+1492432999122	Marionette	INFO	Listening on port 39399
+1492433000350	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8564] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 8564] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492433032031	geckodriver	INFO	Listening on 127.0.0.1:35841
+1492433033085	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vc3ZRx3JsEc3
+1492433033086	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492433033089	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35327
+1492433034104	Marionette	INFO	Listening on port 35327
+1492433035245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1492433085985	geckodriver	INFO	Listening on 127.0.0.1:46983
+1492433087038	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.taNZbt6IeHnl
+1492433087039	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492433087042	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40551
+1492433088118	Marionette	INFO	Listening on port 40551
+1492433089193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kg/route-map-http/0.0.2/index.js,kg/tbhome/1.3.1/index.js,kg/tbhome/1.3.1/c/like/index.css.js,kg/pattern/1.2.0/index-min.js,kg/pattern/1.2.0/lib/image-min.js,kg/pattern/1.2.0/lib/io-min.js,kg/reporter/0.0.2/lib/index-min.js,kg/tbhome/1.3.1/c/fixedtool/index.css.js, line 2: TypeError: a.send is not a function
+1492433244745	geckodriver	INFO	Listening on 127.0.0.1:57937
+1492433244803	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Av9JIwdHkuOh
+1492433244804	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492433244807	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37651
+1492433245845	Marionette	INFO	Listening on port 37651
+1492433247096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kg/route-map-http/0.0.2/index.js,kg/tbhome/1.3.1/index.js,kg/tbhome/1.3.1/c/like/index.css.js,kg/pattern/1.2.0/index-min.js,kg/pattern/1.2.0/lib/image-min.js,kg/pattern/1.2.0/lib/io-min.js,kg/reporter/0.0.2/lib/index-min.js,kg/tbhome/1.3.1/c/fixedtool/index.css.js, line 2: TypeError: a.send is not a function
+[Child 9091] WARNING: pipe error (18): 连接被对方重设: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[NPAPI 9141] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 9141] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 9091] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 9091] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 9091] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x920018,name=PLayerTransaction::Msg_ForceComposite) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+(/usr/lib/firefox/plugin-container:8924): GLib-GObject-WARNING **: invalid unclassed pointer in cast to 'GtkContainer'
+
+(/usr/lib/firefox/plugin-container:8924): Gtk-CRITICAL **: IA__gtk_container_remove: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(/usr/lib/firefox/plugin-container:8924): Gtk-CRITICAL **: IA__gtk_widget_hide: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(/usr/lib/firefox/plugin-container:8924): Gtk-CRITICAL **: IA__gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+1492433302204	geckodriver	INFO	Listening on 127.0.0.1:42991
+1492433303381	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.kHmycgaAbbjR
+1492433303382	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492433303406	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40217
+1492433311476	Marionette	INFO	Listening on port 40217
+1492433312715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kg/route-map-http/0.0.2/index.js,kg/tbhome/1.3.1/index.js,kg/tbhome/1.3.1/c/like/index.css.js,kg/pattern/1.2.0/index-min.js,kg/pattern/1.2.0/lib/image-min.js,kg/pattern/1.2.0/lib/io-min.js,kg/reporter/0.0.2/lib/index-min.js,kg/tbhome/1.3.1/c/fixedtool/index.css.js, line 2: TypeError: a.send is not a function
+[NPAPI 9342] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 9342] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C0001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=19.5699) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600D5,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1492434745341	geckodriver	INFO	Listening on 127.0.0.1:39851
+1492434746398	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.034r5LbdIAhj
+1492434746399	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492434746402	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41765
+1492434747545	Marionette	INFO	Listening on port 41765
+1492434748658	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10184] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 10184] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492434777679	geckodriver	INFO	Listening on 127.0.0.1:52957
+1492434778733	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Vbud8Y5pJ8CF
+1492434778734	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492434778736	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37685
+1492434779758	Marionette	INFO	Listening on port 37685
+1492434780901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kg/route-map-http/0.0.2/index.js,kg/tbhome/1.3.1/index.js,kg/tbhome/1.3.1/c/like/index.css.js,kg/pattern/1.2.0/index-min.js,kg/pattern/1.2.0/lib/image-min.js,kg/pattern/1.2.0/lib/io-min.js,kg/reporter/0.0.2/lib/index-min.js,kg/tbhome/1.3.1/c/fixedtool/index.css.js, line 2: TypeError: a.send is not a function
+1492434852581	geckodriver	INFO	Listening on 127.0.0.1:52075
+1492434853638	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.I7zPYu8G0Z0W
+1492434853640	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492434853642	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35213
+1492434854649	Marionette	INFO	Listening on port 35213
+1492434855917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://g.alicdn.com/??kg/route-map-http/0.0.2/index.js,kg/tbhome/1.3.1/index.js,kg/tbhome/1.3.1/c/like/index.css.js,kg/pattern/1.2.0/index-min.js,kg/pattern/1.2.0/lib/image-min.js,kg/pattern/1.2.0/lib/io-min.js,kg/reporter/0.0.2/lib/index-min.js,kg/tbhome/1.3.1/c/fixedtool/index.css.js, line 2: TypeError: a.send is not a function
+[Child 10468] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 10468] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 10517] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 10517] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1492435079292	geckodriver	INFO	Listening on 127.0.0.1:53073
+1492435079487	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.pePDgZxfG6uE
+1492435079488	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492435079504	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39939
+1492435086980	Marionette	INFO	Listening on port 39939
+1492435088746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1opT0MVXXXXavaXXXdutXFXXX.js, line 4: TypeError: MBOX[a] is undefined
+[Child 10711] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 10760] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 10711] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 10760] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492435154018	geckodriver	INFO	Listening on 127.0.0.1:38909
+1492435154215	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4NDNuim8vYzh
+1492435154216	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492435154249	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35495
+1492435163216	Marionette	INFO	Listening on port 35495
+1492435164702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://acc.alicdn.com/tfscom/TB1ZuwzOVXXXXcaapXXdutXFXXX.js, line 4: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+[NPAPI 10940] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 10940] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 10883] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 10883] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+1492435240019	geckodriver	INFO	Listening on 127.0.0.1:60137
+1492435241074	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EfFyn2BDKU7Z
+1492435241074	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1492435241077	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38525
+1492435242323	Marionette	INFO	Listening on port 38525
+1492435243454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://acc.alicdn.com/tfscom/TB1MMzaJpXXXXXLXXXXdutXFXXX.js, line 4: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB164hJIXXXXXakXXXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB164hJIXXXXXakXXXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1hsQgIXXXXXcMXXXXdutXFXXX.js, line 4: TypeError: MBOX[a] is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE40003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[NPAPI 11110] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 11063] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[Child 11063] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+[NPAPI 11110] ###!!! ABORT: Aborting on channel error.: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/glue/MessageChannel.cpp, line 2143
+
+(/usr/lib/firefox/plugin-container:10353): GLib-GObject-WARNING **: invalid unclassed pointer in cast to 'GtkContainer'
+
+(/usr/lib/firefox/plugin-container:10353): Gtk-CRITICAL **: IA__gtk_container_remove: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(/usr/lib/firefox/plugin-container:10353): Gtk-CRITICAL **: IA__gtk_widget_hide: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(/usr/lib/firefox/plugin-container:10353): Gtk-CRITICAL **: IA__gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(/usr/lib/firefox/plugin-container:10353): GLib-GObject-WARNING **: invalid unclassed pointer in cast to 'GtkContainer'
+
+(/usr/lib/firefox/plugin-container:10353): Gtk-CRITICAL **: IA__gtk_container_remove: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(/usr/lib/firefox/plugin-container:10353): Gtk-CRITICAL **: IA__gtk_widget_hide: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(/usr/lib/firefox/plugin-container:10353): Gtk-CRITICAL **: IA__gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+[Child 10298] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-lwTZ6C/firefox-52.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+
+(/usr/lib/firefox/plugin-container:8753): GLib-GObject-WARNING **: invalid unclassed pointer in cast to 'GtkContainer'
+
+(/usr/lib/firefox/plugin-container:8753): Gtk-CRITICAL **: IA__gtk_container_remove: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(/usr/lib/firefox/plugin-container:8753): Gtk-CRITICAL **: IA__gtk_widget_hide: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(/usr/lib/firefox/plugin-container:8753): Gtk-CRITICAL **: IA__gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(/usr/lib/firefox/plugin-container:8753): GLib-GObject-WARNING **: invalid unclassed pointer in cast to 'GtkContainer'
+
+(/usr/lib/firefox/plugin-container:8753): Gtk-CRITICAL **: IA__gtk_container_remove: assertion 'GTK_IS_CONTAINER (container)' failed
+
+(/usr/lib/firefox/plugin-container:8753): Gtk-CRITICAL **: IA__gtk_widget_hide: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(/usr/lib/firefox/plugin-container:8753): Gtk-CRITICAL **: IA__gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
